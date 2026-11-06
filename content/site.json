@@ -1,0 +1,357 @@
+{
+  "domain": "tglegalpro.com",
+  "form_source": "TG Legal Pro website",
+  "firm": {
+    "name": {
+      "bg": "Адвокатско дружество „Тенев и Гачев“",
+      "en": "Tenev & Gachev Law Partnership"
+    },
+    "short_first": {
+      "bg": "Тенев",
+      "en": "Tenev"
+    },
+    "short_second": {
+      "bg": "Гачев",
+      "en": "Gachev"
+    },
+    "bar": {
+      "bg": "Софийска адвокатска колегия",
+      "en": "Sofia Bar Association"
+    },
+    "registration": {
+      "bg": "",
+      "en": ""
+    },
+    "logo": ""
+  },
+  "contact": {
+    "address": {
+      "bg": "гр. София, ул. „Любен Каравелов“ № 26, ет. 2, ап. 6",
+      "en": "26 Lyuben Karavelov Str., floor 2, apt. 6, Sofia, Bulgaria"
+    },
+    "hours": {
+      "bg": "Делнични дни от 09:00 до 16:00 ч.",
+      "en": "Monday to Friday, 09:00 to 16:00"
+    },
+    "phone": "",
+    "email": "office@tglegalpro.com",
+    "email2": "info@tglegalpro.com",
+    "map_query": "ул. Любен Каравелов 26, София",
+    "street": {
+      "bg": "ул. „Любен Каравелов“ № 26, ет. 2, ап. 6",
+      "en": "26 Lyuben Karavelov Str., floor 2, apt. 6"
+    },
+    "city": {
+      "bg": "София",
+      "en": "Sofia"
+    },
+    "opens": "09:00",
+    "closes": "16:00"
+  },
+  "home": {
+    "hero_image": "images/site/hero.webp",
+    "hero_alt": {
+      "bg": "Рафтове с подвързани правни книги в библиотека",
+      "en": "Shelves of bound law books in a library"
+    },
+    "lead": {
+      "bg": "Съветваме и представляваме граждани и търговски дружества по граждански, корпоративни, семейни и вещноправни въпроси.",
+      "en": "We advise and represent individuals and companies in civil, corporate, family and property law matters."
+    },
+    "cta_primary": {
+      "bg": "Изпратете запитване",
+      "en": "Send an enquiry"
+    },
+    "cta_secondary": {
+      "bg": "Вижте областите на практика",
+      "en": "See our practice areas"
+    },
+    "process_title": {
+      "bg": "Как започва работата по един случай",
+      "en": "How we start work on a matter"
+    },
+    "process": [
+      {
+        "title": {
+          "bg": "Запитване",
+          "en": "Enquiry"
+        },
+        "text": {
+          "bg": "Описвате накратко въпроса си по имейл или през формата, а ние Ви отговаряме дали можем да поемем случая.",
+          "en": "You describe your question briefly by email or through the form, and we tell you whether we can take the matter on."
+        }
+      },
+      {
+        "title": {
+          "bg": "Среща и преглед на документите",
+          "en": "Meeting and document review"
+        },
+        "text": {
+          "bg": "Преглеждаме документите, обясняваме Ви възможните действия и какво може да се очаква от всяко от тях.",
+          "en": "We review the documents and explain the available options and what to expect from each of them."
+        }
+      },
+      {
+        "title": {
+          "bg": "Договор за правна помощ",
+          "en": "Legal services agreement"
+        },
+        "text": {
+          "bg": "Уговаряме писмено обхвата на работата и хонорара, преди да започнем.",
+          "en": "We agree the scope of work and the fee in writing before we begin."
+        }
+      }
+    ]
+  },
+  "about": {
+    "title": {
+      "bg": "За дружеството",
+      "en": "About the firm"
+    },
+    "text": {
+      "bg": "Адвокатско дружество „Тенев и Гачев“ е вписано към Софийска адвокатска колегия. Кантората ни се намира на ул. „Любен Каравелов“ № 26 в София.\n\nРаботим в четири области: гражданско, корпоративно, семейно и вещно право. Поемаме консултации, изготвяне и преглед на документи, преговори и процесуално представителство пред съдилища и други органи.",
+      "en": "Tenev & Gachev Law Partnership is registered with the Sofia Bar Association. Our office is at 26 Lyuben Karavelov Street in Sofia.\n\nWe work in four areas: civil, corporate, family and property law. We provide legal advice, draft and review documents, negotiate on behalf of our clients and represent them before courts and other authorities."
+    },
+    "team_title": {
+      "bg": "Адвокати",
+      "en": "Lawyers"
+    }
+  },
+  "team": [
+    {
+      "id": "krasimir-tenev",
+      "name": {
+        "bg": "Красимир Здравков Тенев",
+        "en": "Krasimir Zdravkov Tenev"
+      },
+      "role": {
+        "bg": "Адвокат",
+        "en": "Attorney at law"
+      },
+      "bio": {
+        "bg": "",
+        "en": ""
+      },
+      "photo": ""
+    },
+    {
+      "id": "gabriel-gachev",
+      "name": {
+        "bg": "Габриел Тодоров Гачев",
+        "en": "Gabriel Todorov Gachev"
+      },
+      "role": {
+        "bg": "Адвокат",
+        "en": "Attorney at law"
+      },
+      "bio": {
+        "bg": "",
+        "en": ""
+      },
+      "photo": ""
+    }
+  ],
+  "services": [
+    {
+      "id": "civil",
+      "title": {
+        "bg": "Гражданско право",
+        "en": "Civil law"
+      },
+      "summary": {
+        "bg": "Договори, вземания и обезщетения, включително съдебни спорове и изпълнение на решенията.",
+        "en": "Contracts, claims and compensation, including litigation and enforcement of judgments."
+      },
+      "items": {
+        "bg": "Изготвяне и преглед на договори\nСъбиране на вземания и заповедно производство\nИскове за обезщетения\nНаследствени въпроси и делби\nПредставителство пред съд и съдебен изпълнител",
+        "en": "Drafting and reviewing contracts\nDebt recovery and order for payment proceedings\nCompensation claims\nInheritance matters and partition\nRepresentation before courts and enforcement agents"
+      }
+    },
+    {
+      "id": "corporate",
+      "title": {
+        "bg": "Корпоративно право",
+        "en": "Corporate law"
+      },
+      "summary": {
+        "bg": "Учредяване и промени в дружества, отношения между съдружници и текущо правно обслужване на бизнеса.",
+        "en": "Forming and changing companies, relations between partners and ongoing legal support for businesses."
+      },
+      "items": {
+        "bg": "Учредяване и вписване на търговски дружества\nПрехвърляне на дружествени дялове\nДружествени договори и учредителни актове\nСпорове между съдружници и акционери\nТърговски договори и абонаментно правно обслужване",
+        "en": "Forming and registering companies\nTransfers of company shares\nPartnership agreements and articles of association\nDisputes between partners and shareholders\nCommercial contracts and retainer legal services"
+      }
+    },
+    {
+      "id": "family",
+      "title": {
+        "bg": "Семейно право",
+        "en": "Family law"
+      },
+      "summary": {
+        "bg": "Развод, родителски права, издръжка и уреждане на имуществените отношения между съпрузи.",
+        "en": "Divorce, parental rights, maintenance and property relations between spouses."
+      },
+      "items": {
+        "bg": "Развод по взаимно съгласие и по исков ред\nРодителски права и режим на лични отношения\nИздръжка\nСпогодби между съпрузи\nПодялба на съпружеска имуществена общност",
+        "en": "Divorce by mutual consent and contested divorce\nParental rights and contact arrangements\nMaintenance\nSettlements between spouses\nDivision of matrimonial property"
+      }
+    },
+    {
+      "id": "property",
+      "title": {
+        "bg": "Вещно право",
+        "en": "Property law"
+      },
+      "summary": {
+        "bg": "Собственост и други вещни права върху имоти, сделки с недвижими имоти и спорове за тях.",
+        "en": "Ownership and other rights in rem over real estate, property transactions and related disputes."
+      },
+      "items": {
+        "bg": "Проверка на собственост и тежести върху имот\nПодготовка на сделки с недвижими имоти\nВещни права, като право на ползване и право на строеж\nВъзстановяване на владение и ревандикационни искове\nСъсобственост и делба на имоти",
+        "en": "Checking title and encumbrances on a property\nPreparing real estate transactions\nRights in rem, such as usufruct and building rights\nRecovery of possession and actions for restitution\nCo-ownership and partition of property"
+      }
+    }
+  ],
+  "services_page": {
+    "title": {
+      "bg": "Области на практика",
+      "en": "Practice areas"
+    },
+    "intro": {
+      "bg": "Ако въпросът Ви не е описан тук, изпратете ни запитване и ще Ви кажем дали можем да помогнем.",
+      "en": "If your question is not listed here, send us an enquiry and we will tell you whether we can help."
+    }
+  },
+  "contact_page": {
+    "title": {
+      "bg": "Контакти",
+      "en": "Contact"
+    },
+    "intro": {
+      "bg": "Пишете ни накратко какъв е въпросът Ви и ще Ви отговорим по имейл.",
+      "en": "Tell us briefly what your question is and we will reply by email."
+    },
+    "form_note": {
+      "bg": "Не изпращайте през формата поверителни документи и подробности по случая. Запитването не създава отношения между адвокат и клиент.",
+      "en": "Please do not send confidential documents or case details through this form. An enquiry does not create a lawyer-client relationship."
+    }
+  },
+  "articles_page": {
+    "title": {
+      "bg": "Статии",
+      "en": "Articles"
+    },
+    "intro": {
+      "bg": "Правни теми от нашата практика.",
+      "en": "Legal topics from our practice."
+    },
+    "disclaimer": {
+      "bg": "Тази статия има информационен характер и не е правен съвет по конкретен случай.",
+      "en": "This article is for information only and is not legal advice on any specific case."
+    }
+  },
+  "seo": {
+    "home": {
+      "bg": "Адвокатско дружество в София, към Софийска адвокатска колегия. Гражданско, корпоративно, семейно и вещно право.",
+      "en": "Law partnership in Sofia, registered with the Sofia Bar Association. Civil, corporate, family and property law."
+    },
+    "about": {
+      "bg": "Адвокатско дружество „Тенев и Гачев“, ул. „Любен Каравелов“ № 26, София. Адвокати Красимир Тенев и Габриел Гачев.",
+      "en": "Tenev & Gachev Law Partnership, 26 Lyuben Karavelov Str., Sofia. Attorneys Krasimir Tenev and Gabriel Gachev."
+    },
+    "services": {
+      "bg": "Адвокатски услуги в София по гражданско, корпоративно, семейно и вещно право.",
+      "en": "Legal services in Sofia in civil, corporate, family and property law."
+    },
+    "contact": {
+      "bg": "Адрес, работно време и форма за запитване на Адвокатско дружество „Тенев и Гачев“ в София.",
+      "en": "Address, office hours and enquiry form of Tenev & Gachev Law Partnership in Sofia."
+    },
+    "articles": {
+      "bg": "Статии на Адвокатско дружество „Тенев и Гачев“ по правни теми.",
+      "en": "Articles on legal topics by Tenev & Gachev Law Partnership."
+    },
+    "home_title": {
+      "bg": "Адвокати в София",
+      "en": "Lawyers in Sofia"
+    }
+  },
+  "legal": {
+    "privacy": {
+      "title": {
+        "bg": "Политика за лични данни",
+        "en": "Privacy policy"
+      },
+      "body": {
+        "bg": "## Администратор\n\nАдминистратор на личните данни е Адвокатско дружество „Тенев и Гачев“, гр. София, ул. „Любен Каравелов“ № 26, ет. 2, ап. 6. Можете да се свържете с нас на office@tglegalpro.com.\n\n## Какви данни обработваме\n\nКогато ни изпратите запитване през формата, получаваме името, имейл адреса и текста на съобщението Ви. Същото важи, когато ни пишете директно по имейл.\n\n## За какво ги използваме\n\nИзползваме данните, за да отговорим на запитването Ви и да преценим дали можем да поемем случая. Основанието за това е член 6, параграф 1, букви „б“ и „е“ от Общия регламент относно защитата на данните.\n\n## Колко дълго ги пазим\n\nПазим запитванията, докато са необходими за отговора и за евентуалните последващи отношения с Вас. Ако станете наш клиент, данните се пазят в сроковете, които законът предвижда за адвокатската дейност.\n\n## Кой друг има достъп\n\nЗапитванията през формата се съхраняват в услугата Google Forms на Google Ireland Limited, а имейлите се препращат през услугата за пренасочване на доставчика на домейна и достигат до пощенски кутии в Gmail. Възможно е тези доставчици да обработват данни и извън Европейския икономически район при предвидените в регламента гаранции. Не продаваме данните Ви и не ги използваме за реклама.\n\n## Бисквитки\n\nСайтът не използва бисквитки и инструменти за проследяване на посетителите. Шрифтовете се зареждат от нашия сайт. Връзката към картата отваря Google Maps, където важат правилата на Google.\n\n## Вашите права\n\nИмате право на достъп, поправка, изтриване, ограничаване на обработването, преносимост и възражение. За да упражните тези права, пишете ни на office@tglegalpro.com.\n\nМожете да подадете жалба и до Комисията за защита на личните данни: гр. София, бул. „Проф. Цветан Лазаров“ № 2, www.cpdp.bg.",
+        "en": "## Controller\n\nThe data controller is Tenev & Gachev Law Partnership, 26 Lyuben Karavelov Str., floor 2, apt. 6, Sofia, Bulgaria. You can reach us at office@tglegalpro.com.\n\n## What data we process\n\nWhen you send an enquiry through the form, we receive your name, email address and the text of your message. The same applies when you email us directly.\n\n## What we use it for\n\nWe use the data to reply to your enquiry and to assess whether we can take on your matter. The legal basis is Article 6(1)(b) and (f) of the General Data Protection Regulation.\n\n## How long we keep it\n\nWe keep enquiries for as long as they are needed for the reply and for any later relationship with you. If you become our client, the data is kept for the periods the law sets for legal practice.\n\n## Who else has access\n\nEnquiries sent through the form are stored in Google Forms, a service of Google Ireland Limited. Emails pass through our domain provider's forwarding service and reach Gmail mailboxes. These providers may process data outside the European Economic Area under the safeguards set out in the Regulation. We do not sell your data or use it for advertising.\n\n## Cookies\n\nThis site does not use cookies or visitor tracking tools. Fonts are served from our own site. The map link opens Google Maps, where Google's own terms apply.\n\n## Your rights\n\nYou have the right of access, rectification, erasure, restriction of processing, portability and objection. To exercise these rights, write to office@tglegalpro.com.\n\nYou may also lodge a complaint with the Bulgarian Commission for Personal Data Protection: 2 Prof. Tsvetan Lazarov Blvd., Sofia, www.cpdp.bg."
+      }
+    },
+    "notice": {
+      "title": {
+        "bg": "Правна информация",
+        "en": "Legal notice"
+      },
+      "body": {
+        "bg": "Този сайт се поддържа от Адвокатско дружество „Тенев и Гачев“, гр. София, ул. „Любен Каравелов“ № 26, ет. 2, ап. 6, office@tglegalpro.com.\n\nДружеството е към Софийска адвокатска колегия. Дейността на адвокатите се урежда от Закона за адвокатурата и Етичния кодекс на адвоката.\n\nТекстовете в сайта имат информационен характер и не са правен съвет по конкретен случай.",
+        "en": "This site is maintained by Tenev & Gachev Law Partnership, 26 Lyuben Karavelov Str., floor 2, apt. 6, Sofia, Bulgaria, office@tglegalpro.com.\n\nThe partnership is registered with the Sofia Bar Association. The work of its lawyers is governed by the Bulgarian Bar Act and the Code of Ethics for Lawyers.\n\nThe texts on this site are for information only and are not legal advice on any specific case."
+      }
+    }
+  },
+  "google_verification": "",
+  "bing_verification": "",
+  "same_as": "",
+  "faq": [
+    {
+      "q": {
+        "bg": "Къде се намира кантората ви?",
+        "en": "Where is your office?"
+      },
+      "a": {
+        "bg": "Кантората ни е в София, на ул. „Любен Каравелов“ № 26, ет. 2, ап. 6.",
+        "en": "Our office is in Sofia, at 26 Lyuben Karavelov Str., floor 2, apt. 6."
+      }
+    },
+    {
+      "q": {
+        "bg": "Какво е работното ви време?",
+        "en": "What are your office hours?"
+      },
+      "a": {
+        "bg": "Работим в делнични дни от 09:00 до 16:00 ч.",
+        "en": "We work Monday to Friday, from 09:00 to 16:00."
+      }
+    },
+    {
+      "q": {
+        "bg": "В кои области на правото работите?",
+        "en": "Which areas of law do you work in?"
+      },
+      "a": {
+        "bg": "Работим в областта на гражданското, корпоративното, семейното и вещното право.",
+        "en": "We work in civil, corporate, family and property law."
+      }
+    },
+    {
+      "q": {
+        "bg": "Как да се свържа с вас за консултация?",
+        "en": "How do I contact you for a consultation?"
+      },
+      "a": {
+        "bg": "Изпратете ни запитване през формата на страницата „Контакти“ или ни пишете на office@tglegalpro.com.",
+        "en": "Send us an enquiry through the form on the Contact page or write to office@tglegalpro.com."
+      }
+    },
+    {
+      "q": {
+        "bg": "Към коя адвокатска колегия е дружеството?",
+        "en": "Which bar association is the firm registered with?"
+      },
+      "a": {
+        "bg": "Адвокатско дружество „Тенев и Гачев“ е към Софийска адвокатска колегия.",
+        "en": "Tenev & Gachev Law Partnership is registered with the Sofia Bar Association."
+      }
+    }
+  ]
+}

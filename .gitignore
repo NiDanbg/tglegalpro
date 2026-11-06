@@ -1,0 +1,14 @@
+dist/
+__pycache__/
+*.pyc
+
+# Работни материали, които не се публикуват
+_arhiv/
+.claude/
+
+# Панелът работи само на този компютър и не се качва в GitHub
+admin/
+admin_server.py
+start.bat
+requirements.txt
+scripts/image_optimize.py
